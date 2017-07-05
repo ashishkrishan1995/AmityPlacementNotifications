@@ -11,4 +11,9 @@ Twilio API has been used to send the SMS you the mobile number.
 ```
 sudo easy_install pip
 ```
+* Twilio API
+
+```
+pip install twilio
+```
 

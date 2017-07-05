@@ -8,7 +8,7 @@ Twilio API has been used to send the SMS you the mobile number.
 
 * Python
 * Pip
-'''
+```
 sudo easy_install pip
-'''
+```
 
